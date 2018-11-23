@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html,body{
+	text-align:center;
+	height: 100%;
+}
+ .logo-container img{
+	width: 500px;
+	height: 460px;
+	margin:0 auto;
+}
